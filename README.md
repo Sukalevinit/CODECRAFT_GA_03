@@ -1,10 +1,8 @@
 # Task 03 – Markov Chain Text Generation
 
-**Internship Project – CODECRAFT**
-
 ## 📄 Project Description
 
-This project implements a basic **Markov Chain** model to generate new text sequences. The model is built from sample text and uses word-based transitions to simulate coherent text generation. This is a foundational natural language processing (NLP) task focused on probabilistic modeling of language and is part of the internship assignment at CODECRAFT.
+This project implements a basic **Markov Chain** model to generate new text sequences. The model is built from sample text and uses word-based transitions to simulate coherent text generation. This is a foundational natural language processing (NLP) task focused on probabilistic modeling of language.
 
 ---
 
@@ -76,12 +74,5 @@ By completing this task, you will:
 * Learn how to tokenize and process text
 * Implement a simple word-level text generator
 * Practice working with dictionaries and random selection
-
----
-
-## 🤝 Contribution & Support
-
-This task was completed as part of the internship program at **CODECRAFT**.
-For questions or feedback, please reach out to your CODECRAFT mentor or project supervisor.
 
 ---
